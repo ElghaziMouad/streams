@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "other stream",
+      "description": "here is some stream",
+      "id": 1
+    },
+    {
+      "title": "stream",
+      "description": "stream with empty id",
+      "userId": null,
+      "id": 2
+    },
+    {
+      "title": "component reuse2",
+      "description": "component reuse2",
+      "id": 5
+    }
+  ]
+}
